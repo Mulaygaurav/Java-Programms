@@ -1,0 +1,6 @@
+class throwss{
+
+public static void static(String [] a){
+System.out.println("hello");
+}
+}

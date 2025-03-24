@@ -1,0 +1,80 @@
+
+You're absolutely right—Collections Framework is a core part of Java, and I should have explicitly included it in the list of Core Java concepts earlier. Let me revise the concepts to include it appropriately. Here's the corrected list:
+
+Core Java Concepts (Including Collections Framework)
+1. Basics of Java
+Introduction to Java
+JVM, JDK, JRE
+Java Program Structure
+Data Types
+Variables and Constants
+Operators
+Control Statements:
+Decision-making (if, else, switch)
+Loops (for, while, do-while)
+Jump Statements (break, continue, return)
+2. Object-Oriented Programming (OOP)
+Class and Object
+Encapsulation
+Inheritance
+Polymorphism:
+Method Overloading
+Method Overriding
+Abstraction:
+Abstract Classes
+Interfaces
+Constructors:
+Default and Parameterized
+Constructor Overloading
+this and super Keywords
+Static Members (Methods and Variables)
+3. String Handling
+String Class and Methods
+StringBuffer
+StringBuilder
+4. Exception Handling
+Try, Catch, Finally
+Throw and Throws
+Built-in Exceptions
+Custom Exceptions
+5. Multithreading
+Thread Creation:
+Using Thread Class
+Using Runnable Interface
+Thread Lifecycle
+Synchronization
+Inter-thread Communication (wait(), notify(), notifyAll())
+6. Java Packages
+Built-in Packages (java.lang, java.util, java.io)
+User-defined Packages
+Access Modifiers:
+public
+private
+protected
+default
+7. Java I/O (Input/Output)
+Byte Streams: InputStream, OutputStream
+Character Streams: Reader, Writer
+File Handling: File Class, FileReader, FileWriter
+8. Wrapper Classes
+Autoboxing and Unboxing
+Primitive to Object Conversion
+9. Collections Framework (Now Explicitly Included)
+Introduction to Collections Framework
+Benefits over Arrays
+Hierarchy of Collections Framework
+Key Interfaces and Implementations
+List (ArrayList, LinkedList)
+Set (HashSet, LinkedHashSet)
+Map (HashMap, LinkedHashMap)
+Common Operations
+Adding, removing, accessing, and iterating elements.
+Iterators
+Using Iterator to traverse collections.
+10. Basic Memory Management
+Stack and Heap Memory
+Garbage Collection
+11. Inner Classes
+Static Inner Class
+Non-static Inner Class
+Anonymous Inner Class
